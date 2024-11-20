@@ -16,9 +16,9 @@ The project uses anonymized data provided for the test, including:
 ## **Key Questions Answered**
 The dashboard is designed to answer critical business questions:
 - What are the trends in customer satisfaction (monthly, weekly, and by work arrangement)?
-- How does customer satisfaction vary by account, line of business, and agent performance?
+- How does customer satisfaction vary by line of business and agent performance?
 - What are the key productivity metrics, and how do they vary by time, team, and role?
-- How can we optimize agent productivity while maintaining high levels of customer satisfaction?
+
 
 ---
 
@@ -47,4 +47,4 @@ The dashboard is designed to answer critical business questions:
   - Building interactive and visually appealing dashboards using Excel.
   - Incorporating filters, slicers, and drill-through features for interactivity.
 - **Visualization**:
-  - line charts and  KPI cards for clear data representation.
+  - Line charts and KPI cards are used to represent clear data.
